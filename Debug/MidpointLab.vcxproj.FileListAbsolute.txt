@@ -1,0 +1,2 @@
+C:\Users\Eva\source\repos\MidpointLab\Debug\MidpointLab.exe
+C:\Users\Eva\source\repos\MidpointLab\Debug\MidpointLab.pdb
